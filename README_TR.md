@@ -1,20 +1,20 @@
-# 📖 **Sprachen:** **Deutsch** | [Türkçe](README_TR.md)
+# 📖 **Dil:** [Deutsch](README.md) | **Türkçe**
 
-# 👥 Personalanalyse-Dashboard
+# 👥 Personel Analiz Panosu
 
-Dieses Projekt ist ein interaktives Power BI Dashboard, das Personaldaten eines fiktiven Unternehmens visualisiert und analysiert. Ziel des Projekts ist es, Einblicke in die Mitarbeiteranzahl nach Abteilung, die Gehaltsstruktur nach Abteilung und Position sowie die Arbeitszeiten und Geschlechterverteilung der Belegschaft zu gewinnen. Das Dashboard ermöglicht durch eine Mitarbeiterliste und interaktive Visuals eine detaillierte Analyse auf Mitarbeiterebene.
+Bu proje, kurgusal bir şirkete ait personel verilerini görselleştiren ve analiz eden interaktif bir Power BI panosudur. Projenin amacı; departmana göre personel sayısı, departman ve pozisyona göre maaş yapısı ile bölümlerin çalışma süresi ve cinsiyet dağılımı üzerine içgörüler elde etmektir. Pano, çalışan listesi ve interaktif görseller aracılığıyla çalışan bazında detaylı analiz imkânı sunmaktadır.
 
-## 📸 Screenshot
+## 📸 Ekran Görüntüsü
 
 ![](1.png)
 
-## 🛠️ Verwendete Tools
+## 🛠️ Kullanılan Araçlar
 
 - **Power BI Desktop**
 - **DAX**
 - **Power Query**
 
-## 📧 Kontakt
+## 📧 İletişim
 
 **Süha Çağrı Özbakışlar**
 
